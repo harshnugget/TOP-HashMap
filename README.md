@@ -1,3 +1,3 @@
-# Template
+# The Odin Project
 
-My template.
+Project: HashMap
